@@ -1,5 +1,5 @@
-# MPM-sidebar
-Opera sidebar extension for page "Minúta po minúte" (https://dennikn.sk/minuta/)
+# Minúta po minúte - sidebar
+Opera sidebar extension for page "Minúta po minúte"
 
 
 This is very simple sidebar extension whitch only show page https://dennikn.sk/minuta/
