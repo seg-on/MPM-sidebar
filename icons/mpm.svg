@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0px"
+   y="0px"
+   viewBox="0 0 80 80"
+   xml:space="preserve"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="mpm.svg"
+   width="80"
+   height="80"
+   inkscape:export-filename="D:\Downloads\mpm-128.png"
+   inkscape:export-xdpi="153.60001"
+   inkscape:export-ydpi="153.60001"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata22"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs20"><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath864"><path
+       d="m 41.4,60 v 0 L 34.1,67.3 26.6,60 v 0 H 18 v 31.999996 h 8.6 V 72.2 l 1.3,1.3 v 0 l 6.1,6 7.3,-7.3 V 91.999996 H 50 V 60 Z"
+       id="path866" /></clipPath></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1177"
+   id="namedview18"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="5.6995031"
+   inkscape:cx="30.714908"
+   inkscape:cy="23.539335"
+   inkscape:window-x="1592"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg16"
+   inkscape:document-rotation="0" />
+	
+	
+	
+	
+	
+	
+	<rect
+   style="fill:#ffffff;fill-opacity:1;stroke-width:1.33417;stroke-linejoin:round"
+   id="rect840"
+   width="80"
+   height="80"
+   x="0"
+   y="0" /><g
+   id="g876"
+   transform="translate(6)"><rect
+     style="fill-opacity:1;fill-rule:nonzero;stroke-width:1.56961;stroke-linejoin:round"
+     id="rect24"
+     width="80"
+     height="80"
+     x="-6"
+     y="0"
+     clip-path="url(#clipPath864)" /><path
+     d="M 41.4,0 V 0 L 34.1,7.3 26.6,0 V 0 H 18 v 32 h 8.6 V 12.2 l 1.3,1.3 v 0 l 6.1,6 7.3,-7.3 V 32 H 50 V 0 Z"
+     id="path2" /><circle
+     fill="#bf2134"
+     cx="3.5"
+     cy="45.5"
+     r="3.5"
+     id="circle4" /><circle
+     fill="#bf2134"
+     cx="15.5"
+     cy="45.5"
+     r="3.5"
+     id="circle6" /><circle
+     fill="#bf2134"
+     cx="27.5"
+     cy="45.5"
+     r="3.5"
+     id="circle8" /><circle
+     fill="#bf2134"
+     cx="40.5"
+     cy="45.5"
+     r="3.5"
+     id="circle10" /><circle
+     fill="#bf2134"
+     cx="52.5"
+     cy="45.5"
+     r="3.5"
+     id="circle12" /><circle
+     fill="#bf2134"
+     cx="64.5"
+     cy="45.5"
+     r="3.5"
+     id="circle14" /></g>
+</svg>
