@@ -1,9 +1,9 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
 
-    "name": "Minúta po minúte",
+    "name": "Minúta po minúte DEV",
     "description": "Minúta po minúte Denníka N",
-    "version": "1.1",
+    "version": "1.3",
     "developer": { "name": "Tomas segi Vanco" },
     "icons": {
         "16": "icons/mpm-16.png",
@@ -11,14 +11,23 @@
         "128": "icons/mpm-128.png"
     },
     "minimum_opera_version": "30",
-
+	"options_page": "options/options.html",
+	
     "permissions": [
+        "storage"
+    ],
+	
+    "host_permissions": [
         "https://dennikn.sk/minuta/*"
     ],
 
     "sidebar_action": {
-        "default_icon": "icons/mpm-16.png",
-        "default_title" : "Minúta po minúte",
+		"default_icon": {
+			"16": "icons/mpm-16.png",
+			"48": "icons/mpm-48.png",
+			"128": "icons/mpm-128.png"
+		},
+        "default_title" : "Minúta po minúte DEV",
         "default_panel": "panel.html"
     }
 
