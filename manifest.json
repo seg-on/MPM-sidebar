@@ -3,7 +3,7 @@
 
     "name": "Minúta po minúte DEV",
     "description": "Minúta po minúte Denníka N",
-    "version": "1.3",
+    "version": "1.4",
     "developer": { "name": "Tomas segi Vanco" },
     "icons": {
         "16": "icons/mpm-16.png",

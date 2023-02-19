@@ -10,7 +10,7 @@ html, body {
 
 #main {
 	width: 700px;
-	min-height: 400px;
+	min-height: 200px;
 	border: 1px solid lightgray;
 	margin: 50px auto;
 	background: #F3F3F3;
